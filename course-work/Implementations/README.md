@@ -1,4 +1,8 @@
-фак:2301261067
-TouristAgency
-DB: AgencyDb
+TouristAgency — Курсова работа
 
+Факултетен номер: 2301261067
+Име на проекта: TouristAgency
+Технологичен стек: ASP.NET Core MVC + Entity Framework Core + MySQL
+
+Инструкции за инсталация и стартиране
+ 1. Клониране на репозиторието: https://github.com/ATreff04/distributed-applications-cs/tree/master/course-work/Implementations
